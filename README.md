@@ -1,4 +1,4 @@
-# mirtek
+# dashboard
 
 ## Project setup
 ```
